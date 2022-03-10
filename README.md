@@ -5,6 +5,7 @@ desc: Searches twitter for posts based on keyword input to a google-sheet. The s
 <br>
 tech used: Node, Needle, GoogleSheets API, Twitter V2 API
 </p>
+
 ## 2) followUserFromID
 <p>
 desc: Scrapes a google-spread sheet column and follows the user ID's from the column.
