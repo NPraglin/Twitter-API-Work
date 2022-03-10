@@ -8,7 +8,7 @@ tech used: Node, Needle, GoogleSheets API, Twitter V2 API
 
 ## 2) followUserFromID
 <p>
-desc: Scrapes a google-spread sheet column and follows the user ID's from the column.
+desc: Scrapes a google-sheet column and follows the user ID's from the column. (Added by the previous script)
 <br>
 tech used: Node, Needle, GoogleSheets API, Twitter V2 API
 </p>
