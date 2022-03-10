@@ -12,3 +12,10 @@ desc: Scrapes a google-sheet column and follows the user ID's from the column. (
 <br>
 tech used: Node, Needle, GoogleSheets API, Twitter V2 API
 </p>
+
+## 3) followUserFromID
+<p>
+desc: Loads posts from a google spreadsheet and posts them to Twitter. (Added by the previous script)
+<br>
+tech used: Node, GoogleSheets API, Twitter V2 API
+</p>
